@@ -40,10 +40,3 @@ Our bots are available for **custom development** or **direct purchase** — tai
 
 ⭐ **Let’s build the next generation of blockchain together.**  
 Feel free to reach out if you’re interested in collaboration or custom bot development!
-"""
-
-# Define path and write the file
-readme_path = Path("/mnt/data/README.md")
-readme_path.write_text(readme_content, encoding="utf-8")
-
-readme_path
