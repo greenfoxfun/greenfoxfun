@@ -1,7 +1,4 @@
-from pathlib import Path
-
-# Content for the README file
-readme_content = """# 👋 Welcome to **GreenFoxFun**
+# 👋 Welcome to **GreenFoxFun**
 
 ### 🧠 Blockchain Developer Team | Building the Future of Web3  
 
